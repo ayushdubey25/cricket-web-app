@@ -1,0 +1,41 @@
+[
+  {
+    "title": "ONLY Captain to Win All Three ICC Trophies",
+    "recordHolder": "MS DHONI",
+    "image": "/images/MS-DHONI.jpeg"
+  },
+  {
+    "title": "Highest Individual Test Runs",
+    "recordHolder": "Brian Lara",
+    "score": "400 runs",
+    "against": "England",
+    "year": 2004,
+    "image": "/images/Brian-Lara.jpg"
+  },
+  {
+    "title": "Highest Individual TOTAL TEST Runs",
+    "recordHolder": "Sachin Tendulkar",
+    "score": "15,921 runs",
+    "image": "/images/Sachin.jpg"
+  },
+  {
+    "title": "Most Wins In ODI as captain",
+    "recordHolder": "Ricky Ponting",
+    "score": "165 Wins",
+    "image": "/images/Ricky-Ponting.jpg"
+  },
+  {
+    "title": "Most Runs in an inning by a wicketkeeper in ODIs",
+    "recordHolder": "MS DHONI",
+    "score": "183 runs",
+    "image": "/images/MS-DHONI2.jpeg"
+  },
+  {
+    "title": "Highest Individual ODI Score",
+    "recordHolder": "Rohit Sharma",
+    "score": "264 runs",
+    "against": "Sri Lanka",
+    "year": 2014,
+    "image": "/images/Rohit-Sharma.png"
+  }
+]
