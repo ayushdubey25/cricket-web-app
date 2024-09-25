@@ -5,7 +5,7 @@ const RSSParser = require("rss-parser");
 const cors = require("cors");
 
 const app = express();
-const port = 5002; // You can choose any port you prefer
+const port = process.env.PORT || 5002; // You can choose any port you prefer
 
 // Enable CORS with explicit settings
 app.use(
